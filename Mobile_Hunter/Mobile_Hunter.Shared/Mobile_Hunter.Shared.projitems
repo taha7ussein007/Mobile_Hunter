@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>2b116b9d-c7fa-4139-bd89-520dd7c5921f</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Mobile_Hunter</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Model\NOKIA.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\HTC.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Samsung.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\SONY.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\DataSource.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\106.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1116-540.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1152-1920.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1152-1920.scale-140.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1152-1920.scale-240.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\120.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\126.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\150.scale-140.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\150.scale-180.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\150edit.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\150edit.scale-140.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\150edit.scale-240.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\16.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\170.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\210.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\24-24.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\24-24.scale-140.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\24.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\248-120.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\248.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\256.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\270.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\270.scale-140.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\270.scale-180.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\270.scale-80.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\30.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\30.scale-140.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\30.scale-180.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\30.scale-80.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\30.targetsize-16.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\30.targetsize-256.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\30.targetsize-32.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\30.targetsize-48.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\310-150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\310-150.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\310-310.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\310.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\32.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\33.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\360.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\42.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\43.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\434-210.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\434.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\44.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\44.scale-140.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\44.scale-240.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\48.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\480-800.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\50.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\50.scale-140.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\50.scale-240.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\54.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\558-270.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\558.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\56.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\62.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\620-300.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\620-300.scale-140.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\620-300.scale-180.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\672-1120.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\70-70.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\70.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\71.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\744-360.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\868-420.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\90.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\90.scale-140.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\90.scale-180.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\98.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\99.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\About background.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Assembly 5-1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Blue.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\FBL.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Logo Icon 1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Logo Icon.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Logo Icon2.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\TL.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\h1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ht1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ht10.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ht2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ht3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ht4.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ht5.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ht6.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ht7.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ht8.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ht9.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\HTC.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\hunt1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ipho.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\lenovo.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Logo.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\n.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\n1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\n2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\n3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\n4.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\n5.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\n6.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\n7.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\n8.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ng.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\nokk.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\s1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\s2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\s3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\s4.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\s5.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\s6.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\s7.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\s8.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-10.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-11.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-12.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-13.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-14.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-15.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-4.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-5.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-6.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-7.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-8.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam-9.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sam1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\SmallLogo.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\SplashScreen.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sto.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\StoreLogo.scale-100.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\vaio.png" />
+  </ItemGroup>
+</Project>

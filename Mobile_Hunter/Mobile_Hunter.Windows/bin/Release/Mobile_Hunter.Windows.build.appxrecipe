@@ -1,0 +1,592 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TAHA</Machine>
+    <WindowsUser>Taha Hussein</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4203TahaHussein.MobileHunter</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Release\Mobile_Hunter.Windows.exe">
+      <PackagePath>Mobile_Hunter.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\References\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML.dll">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\References\CommonConfiguration\neutral\AdDuplex.Universal.Win.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.Win.WinRT.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\mraidApi.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\mraidApi.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\106.png">
+      <PackagePath>Assets\106.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\1116-540.png">
+      <PackagePath>Assets\1116-540.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\1152-1920.scale-100.png">
+      <PackagePath>Assets\1152-1920.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\1152-1920.scale-140.png">
+      <PackagePath>Assets\1152-1920.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\1152-1920.scale-240.png">
+      <PackagePath>Assets\1152-1920.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\120.png">
+      <PackagePath>Assets\120.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\126.png">
+      <PackagePath>Assets\126.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\150.scale-140.png">
+      <PackagePath>Assets\150.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\150.scale-180.png">
+      <PackagePath>Assets\150.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\150edit.scale-100.png">
+      <PackagePath>Assets\150edit.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\150edit.scale-140.png">
+      <PackagePath>Assets\150edit.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\150edit.scale-240.png">
+      <PackagePath>Assets\150edit.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\16.png">
+      <PackagePath>Assets\16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\170.png">
+      <PackagePath>Assets\170.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\210.png">
+      <PackagePath>Assets\210.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\24-24.scale-100.png">
+      <PackagePath>Assets\24-24.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\24-24.scale-140.png">
+      <PackagePath>Assets\24-24.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\24.png">
+      <PackagePath>Assets\24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\248-120.png">
+      <PackagePath>Assets\248-120.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\248.png">
+      <PackagePath>Assets\248.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\256.png">
+      <PackagePath>Assets\256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\270.scale-100.png">
+      <PackagePath>Assets\270.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\270.scale-140.png">
+      <PackagePath>Assets\270.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\270.scale-180.png">
+      <PackagePath>Assets\270.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\270.scale-80.png">
+      <PackagePath>Assets\270.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.scale-100.png">
+      <PackagePath>Assets\30.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.scale-140.png">
+      <PackagePath>Assets\30.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.scale-180.png">
+      <PackagePath>Assets\30.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.scale-80.png">
+      <PackagePath>Assets\30.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.targetsize-16.png">
+      <PackagePath>Assets\30.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.targetsize-256.png">
+      <PackagePath>Assets\30.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.targetsize-32.png">
+      <PackagePath>Assets\30.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.targetsize-48.png">
+      <PackagePath>Assets\30.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\310-150.png">
+      <PackagePath>Assets\310-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\310-150.scale-100.png">
+      <PackagePath>Assets\310-150.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\310-310.scale-100.png">
+      <PackagePath>Assets\310-310.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\310.png">
+      <PackagePath>Assets\310.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\32.png">
+      <PackagePath>Assets\32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\33.png">
+      <PackagePath>Assets\33.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\360.png">
+      <PackagePath>Assets\360.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\42.png">
+      <PackagePath>Assets\42.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\43.png">
+      <PackagePath>Assets\43.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\434-210.png">
+      <PackagePath>Assets\434-210.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\434.png">
+      <PackagePath>Assets\434.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\44.scale-100.png">
+      <PackagePath>Assets\44.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\44.scale-140.png">
+      <PackagePath>Assets\44.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\44.scale-240.png">
+      <PackagePath>Assets\44.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\48.png">
+      <PackagePath>Assets\48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\480-800.png">
+      <PackagePath>Assets\480-800.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\50.scale-100.png">
+      <PackagePath>Assets\50.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\50.scale-140.png">
+      <PackagePath>Assets\50.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\50.scale-240.png">
+      <PackagePath>Assets\50.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\54.png">
+      <PackagePath>Assets\54.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\558-270.png">
+      <PackagePath>Assets\558-270.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\558.png">
+      <PackagePath>Assets\558.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\56.png">
+      <PackagePath>Assets\56.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\62.png">
+      <PackagePath>Assets\62.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\620-300.scale-100.png">
+      <PackagePath>Assets\620-300.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\620-300.scale-140.png">
+      <PackagePath>Assets\620-300.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\620-300.scale-180.png">
+      <PackagePath>Assets\620-300.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\672-1120.png">
+      <PackagePath>Assets\672-1120.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\70-70.scale-100.png">
+      <PackagePath>Assets\70-70.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\70.png">
+      <PackagePath>Assets\70.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\71.png">
+      <PackagePath>Assets\71.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\744-360.png">
+      <PackagePath>Assets\744-360.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\868-420.png">
+      <PackagePath>Assets\868-420.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\90.scale-100.png">
+      <PackagePath>Assets\90.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\90.scale-140.png">
+      <PackagePath>Assets\90.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\90.scale-180.png">
+      <PackagePath>Assets\90.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\98.png">
+      <PackagePath>Assets\98.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\99.png">
+      <PackagePath>Assets\99.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\About background.png">
+      <PackagePath>Assets\Assembly logo\About background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly logo\Assembly 5-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\Blue.png">
+      <PackagePath>Assets\Assembly logo\Blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\FBL.png">
+      <PackagePath>Assets\Assembly logo\FBL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\Logo Icon 1.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon 1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\Logo Icon.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\Logo Icon2.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\TL.png">
+      <PackagePath>Assets\Assembly logo\TL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\HTC.png">
+      <PackagePath>Assets\HTC.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\hunt1.png">
+      <PackagePath>Assets\hunt1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ipho.png">
+      <PackagePath>Assets\ipho.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam1.png">
+      <PackagePath>Assets\sam1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sto.PNG">
+      <PackagePath>Assets\sto.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\vaio.png">
+      <PackagePath>Assets\vaio.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\h1.jpg">
+      <PackagePath>Assets\h1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht1.jpg">
+      <PackagePath>Assets\ht1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht10.jpg">
+      <PackagePath>Assets\ht10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht2.jpg">
+      <PackagePath>Assets\ht2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht3.jpg">
+      <PackagePath>Assets\ht3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht4.jpg">
+      <PackagePath>Assets\ht4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht5.jpg">
+      <PackagePath>Assets\ht5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht6.jpg">
+      <PackagePath>Assets\ht6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht7.jpg">
+      <PackagePath>Assets\ht7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht8.jpg">
+      <PackagePath>Assets\ht8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht9.jpg">
+      <PackagePath>Assets\ht9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\lenovo.jpg">
+      <PackagePath>Assets\lenovo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n.jpg">
+      <PackagePath>Assets\n.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n1.jpg">
+      <PackagePath>Assets\n1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n2.jpg">
+      <PackagePath>Assets\n2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n3.jpg">
+      <PackagePath>Assets\n3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n4.jpg">
+      <PackagePath>Assets\n4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n5.jpg">
+      <PackagePath>Assets\n5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n6.jpg">
+      <PackagePath>Assets\n6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n7.jpg">
+      <PackagePath>Assets\n7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n8.jpg">
+      <PackagePath>Assets\n8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ng.jpg">
+      <PackagePath>Assets\ng.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\nokk.jpg">
+      <PackagePath>Assets\nokk.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s1.jpg">
+      <PackagePath>Assets\s1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s2.jpg">
+      <PackagePath>Assets\s2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s3.jpg">
+      <PackagePath>Assets\s3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s4.jpg">
+      <PackagePath>Assets\s4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s5.jpg">
+      <PackagePath>Assets\s5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s6.jpg">
+      <PackagePath>Assets\s6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s7.jpg">
+      <PackagePath>Assets\s7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s8.jpg">
+      <PackagePath>Assets\s8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-1.jpg">
+      <PackagePath>Assets\sam-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-10.jpg">
+      <PackagePath>Assets\sam-10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-11.jpg">
+      <PackagePath>Assets\sam-11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-12.jpg">
+      <PackagePath>Assets\sam-12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-13.jpg">
+      <PackagePath>Assets\sam-13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-14.jpg">
+      <PackagePath>Assets\sam-14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-15.jpg">
+      <PackagePath>Assets\sam-15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-2.jpg">
+      <PackagePath>Assets\sam-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-3.jpg">
+      <PackagePath>Assets\sam-3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-4.jpg">
+      <PackagePath>Assets\sam-4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-5.jpg">
+      <PackagePath>Assets\sam-5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-6.jpg">
+      <PackagePath>Assets\sam-6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-7.jpg">
+      <PackagePath>Assets\sam-7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-8.jpg">
+      <PackagePath>Assets\sam-8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-9.jpg">
+      <PackagePath>Assets\sam-9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Release\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Release\BasicPage2.xbf">
+      <PackagePath>BasicPage2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Release\Mobile_Hunter.Windows.xr.xml">
+      <PackagePath>Mobile_Hunter.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taha Hussein\Desktop\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

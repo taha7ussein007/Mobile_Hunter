@@ -1,0 +1,780 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TAHA</Machine>
+    <WindowsUser>Taha_Hussein</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4203TahaHussein.MobileHunter</PackageIdentityName>
+    <IntermediateOutputPath>D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>BF2F7979FBADD39FA25A72AB618E41E06BDD7E81CD798814C2658278A6E4848C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4203TahaHussein.MobileHunter_1.1.0.2_neutral__jg8vh6z4j58tt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4203TahaHussein.MobileHunter_jg8vh6z4j58tt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4203TahaHussein.MobileHunter</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=51C861B3-69B8-4346-A7ED-F2FAF9D63E04</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.2</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-25T16:14:00.549</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.exe">
+      <PackagePath>Mobile_Hunter.Windows.exe</PackagePath>
+      <Modified>2015-12-25T16:13:40.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\References\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML.dll">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML.dll</PackagePath>
+      <Modified>2015-04-01T08:40:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T12:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T12:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\References\CommonConfiguration\neutral\AdDuplex.Universal.Win.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.Win.WinRT.winmd</PackagePath>
+      <Modified>2015-04-01T08:40:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2014-04-28T15:27:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2014-04-28T15:27:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2014-04-28T15:27:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</PackagePath>
+      <Modified>2015-04-01T08:40:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-04-28T15:27:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2014-04-28T15:27:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\mraidApi.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\mraidApi.html</PackagePath>
+      <Modified>2014-04-28T15:27:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2014-04-28T15:30:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2015-04-01T13:22:31.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <Modified>2015-03-30T03:57:42.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <Modified>2015-03-30T03:54:04.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <Modified>2015-03-30T03:59:49.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2015-03-30T04:14:12.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <Modified>2015-03-30T04:12:02.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <Modified>2015-03-30T04:07:57.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <Modified>2015-03-30T04:14:56.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <Modified>2015-03-30T04:16:13.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <Modified>2015-03-30T03:54:46.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <Modified>2015-03-30T04:13:27.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <Modified>2015-03-30T04:09:24.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2015-03-30T03:31:24.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <Modified>2015-03-30T03:39:07.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <Modified>2015-03-30T03:37:03.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:53:15.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:51:29.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:47:03.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:56:48.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:06:11.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:04:35.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:17:56.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:28:52.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <Modified>2015-03-30T04:08:38.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:52:33.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:50:28.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:43:53.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:55:50.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\106.png">
+      <PackagePath>Assets\106.png</PackagePath>
+      <Modified>2015-03-30T04:43:05.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\1116-540.png">
+      <PackagePath>Assets\1116-540.png</PackagePath>
+      <Modified>2015-03-30T03:37:03.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\1152-1920.scale-100.png">
+      <PackagePath>Assets\1152-1920.scale-100.png</PackagePath>
+      <Modified>2015-03-30T03:48:06.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\1152-1920.scale-140.png">
+      <PackagePath>Assets\1152-1920.scale-140.png</PackagePath>
+      <Modified>2015-03-30T03:45:20.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\1152-1920.scale-240.png">
+      <PackagePath>Assets\1152-1920.scale-240.png</PackagePath>
+      <Modified>2015-03-30T03:35:00.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\120.png">
+      <PackagePath>Assets\120.png</PackagePath>
+      <Modified>2015-03-30T03:59:49.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\126.png">
+      <PackagePath>Assets\126.png</PackagePath>
+      <Modified>2015-03-30T04:17:56.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\150.scale-140.png">
+      <PackagePath>Assets\150.scale-140.png</PackagePath>
+      <Modified>2015-03-30T03:57:42.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\150.scale-180.png">
+      <PackagePath>Assets\150.scale-180.png</PackagePath>
+      <Modified>2015-03-30T03:58:39.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\150edit.scale-100.png">
+      <PackagePath>Assets\150edit.scale-100.png</PackagePath>
+      <Modified>2015-04-01T15:30:41.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\150edit.scale-140.png">
+      <PackagePath>Assets\150edit.scale-140.png</PackagePath>
+      <Modified>2015-03-30T03:57:42.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\150edit.scale-240.png">
+      <PackagePath>Assets\150edit.scale-240.png</PackagePath>
+      <Modified>2015-03-30T04:48:33.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\16.png">
+      <PackagePath>Assets\16.png</PackagePath>
+      <Modified>2015-03-30T04:16:13.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\170.png">
+      <PackagePath>Assets\170.png</PackagePath>
+      <Modified>2015-03-30T04:51:15.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\210.png">
+      <PackagePath>Assets\210.png</PackagePath>
+      <Modified>2015-03-30T03:57:42.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\24-24.scale-100.png">
+      <PackagePath>Assets\24-24.scale-100.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\24-24.scale-140.png">
+      <PackagePath>Assets\24-24.scale-140.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\24.png">
+      <PackagePath>Assets\24.png</PackagePath>
+      <Modified>2015-03-30T04:14:56.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\248-120.png">
+      <PackagePath>Assets\248-120.png</PackagePath>
+      <Modified>2015-03-30T03:55:50.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\248.png">
+      <PackagePath>Assets\248.png</PackagePath>
+      <Modified>2015-03-30T03:56:48.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\256.png">
+      <PackagePath>Assets\256.png</PackagePath>
+      <Modified>2015-03-30T03:54:46.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\270.scale-100.png">
+      <PackagePath>Assets\270.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:58:39.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\270.scale-140.png">
+      <PackagePath>Assets\270.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:57:42.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\270.scale-180.png">
+      <PackagePath>Assets\270.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:54:04.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\270.scale-80.png">
+      <PackagePath>Assets\270.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:59:49.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.scale-100.png">
+      <PackagePath>Assets\30.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:14:12.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.scale-140.png">
+      <PackagePath>Assets\30.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:12:02.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.scale-180.png">
+      <PackagePath>Assets\30.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:07:57.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.scale-80.png">
+      <PackagePath>Assets\30.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:14:56.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.targetsize-16.png">
+      <PackagePath>Assets\30.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:16:13.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.targetsize-256.png">
+      <PackagePath>Assets\30.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:54:46.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.targetsize-32.png">
+      <PackagePath>Assets\30.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:13:27.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\30.targetsize-48.png">
+      <PackagePath>Assets\30.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:09:24.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\310-150.png">
+      <PackagePath>Assets\310-150.png</PackagePath>
+      <Modified>2015-03-30T03:52:33.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\310-150.scale-100.png">
+      <PackagePath>Assets\310-150.scale-100.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\310-310.scale-100.png">
+      <PackagePath>Assets\310-310.scale-100.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\310.png">
+      <PackagePath>Assets\310.png</PackagePath>
+      <Modified>2015-03-30T03:53:15.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\32.png">
+      <PackagePath>Assets\32.png</PackagePath>
+      <Modified>2015-03-30T04:13:27.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\33.png">
+      <PackagePath>Assets\33.png</PackagePath>
+      <Modified>2015-03-30T04:12:45.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\360.png">
+      <PackagePath>Assets\360.png</PackagePath>
+      <Modified>2015-03-30T04:48:33.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\42.png">
+      <PackagePath>Assets\42.png</PackagePath>
+      <Modified>2015-03-30T04:12:02.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\43.png">
+      <PackagePath>Assets\43.png</PackagePath>
+      <Modified>2015-03-30T04:11:14.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\434-210.png">
+      <PackagePath>Assets\434-210.png</PackagePath>
+      <Modified>2015-03-30T03:50:28.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\434.png">
+      <PackagePath>Assets\434.png</PackagePath>
+      <Modified>2015-03-30T03:51:29.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\44.scale-100.png">
+      <PackagePath>Assets\44.scale-100.png</PackagePath>
+      <Modified>2015-03-30T04:10:12.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\44.scale-140.png">
+      <PackagePath>Assets\44.scale-140.png</PackagePath>
+      <Modified>2015-03-30T04:06:59.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\44.scale-240.png">
+      <PackagePath>Assets\44.scale-240.png</PackagePath>
+      <Modified>2015-03-30T04:43:05.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\48.png">
+      <PackagePath>Assets\48.png</PackagePath>
+      <Modified>2015-03-30T04:09:24.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\480-800.png">
+      <PackagePath>Assets\480-800.png</PackagePath>
+      <Modified>2015-03-30T03:48:06.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\50.scale-100.png">
+      <PackagePath>Assets\50.scale-100.png</PackagePath>
+      <Modified>2015-03-30T04:08:38.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\50.scale-140.png">
+      <PackagePath>Assets\50.scale-140.png</PackagePath>
+      <Modified>2015-03-30T04:06:11.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\50.scale-240.png">
+      <PackagePath>Assets\50.scale-240.png</PackagePath>
+      <Modified>2015-03-30T03:59:49.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\54.png">
+      <PackagePath>Assets\54.png</PackagePath>
+      <Modified>2015-03-30T04:07:57.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\558-270.png">
+      <PackagePath>Assets\558-270.png</PackagePath>
+      <Modified>2015-03-30T03:43:53.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\558.png">
+      <PackagePath>Assets\558.png</PackagePath>
+      <Modified>2015-03-30T03:47:03.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\56.png">
+      <PackagePath>Assets\56.png</PackagePath>
+      <Modified>2015-03-30T03:28:52.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\62.png">
+      <PackagePath>Assets\62.png</PackagePath>
+      <Modified>2015-03-30T04:06:59.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\620-300.scale-100.png">
+      <PackagePath>Assets\620-300.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:31:24.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\620-300.scale-140.png">
+      <PackagePath>Assets\620-300.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:39:07.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\620-300.scale-180.png">
+      <PackagePath>Assets\620-300.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T03:37:03.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\672-1120.png">
+      <PackagePath>Assets\672-1120.png</PackagePath>
+      <Modified>2015-03-30T03:45:20.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\70-70.scale-100.png">
+      <PackagePath>Assets\70-70.scale-100.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\70.png">
+      <PackagePath>Assets\70.png</PackagePath>
+      <Modified>2015-03-30T04:06:11.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\71.png">
+      <PackagePath>Assets\71.png</PackagePath>
+      <Modified>2015-03-30T04:50:30.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\744-360.png">
+      <PackagePath>Assets\744-360.png</PackagePath>
+      <Modified>2015-03-30T04:46:35.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\868-420.png">
+      <PackagePath>Assets\868-420.png</PackagePath>
+      <Modified>2015-03-30T03:39:07.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\90.scale-100.png">
+      <PackagePath>Assets\90.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:08:38.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\90.scale-140.png">
+      <PackagePath>Assets\90.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:06:11.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\90.scale-180.png">
+      <PackagePath>Assets\90.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-30T04:05:24.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\98.png">
+      <PackagePath>Assets\98.png</PackagePath>
+      <Modified>2015-03-30T04:04:35.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\99.png">
+      <PackagePath>Assets\99.png</PackagePath>
+      <Modified>2015-03-30T04:49:42.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\About background.png">
+      <PackagePath>Assets\Assembly logo\About background.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly logo\Assembly 5-1.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\Blue.png">
+      <PackagePath>Assets\Assembly logo\Blue.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\FBL.png">
+      <PackagePath>Assets\Assembly logo\FBL.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\Logo Icon 1.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon 1.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\Logo Icon.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\Logo Icon2.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon2.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\Assembly logo\TL.png">
+      <PackagePath>Assets\Assembly logo\TL.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\HTC.png">
+      <PackagePath>Assets\HTC.png</PackagePath>
+      <Modified>2015-03-11T21:58:49.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\hunt1.png">
+      <PackagePath>Assets\hunt1.png</PackagePath>
+      <Modified>2015-03-20T01:43:24.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ipho.png">
+      <PackagePath>Assets\ipho.png</PackagePath>
+      <Modified>2015-03-11T22:02:10.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam1.png">
+      <PackagePath>Assets\sam1.png</PackagePath>
+      <Modified>2015-03-11T18:15:22.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sto.PNG">
+      <PackagePath>Assets\sto.PNG</PackagePath>
+      <Modified>2015-03-28T08:47:41.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\vaio.png">
+      <PackagePath>Assets\vaio.png</PackagePath>
+      <Modified>2015-03-11T22:11:14.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+      <Modified>2015-03-19T03:08:36.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+      <Modified>2015-03-20T02:20:19.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\h1.jpg">
+      <PackagePath>Assets\h1.jpg</PackagePath>
+      <Modified>2015-03-13T23:15:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht1.jpg">
+      <PackagePath>Assets\ht1.jpg</PackagePath>
+      <Modified>2015-03-13T23:15:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht10.jpg">
+      <PackagePath>Assets\ht10.jpg</PackagePath>
+      <Modified>2015-03-27T17:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht2.jpg">
+      <PackagePath>Assets\ht2.jpg</PackagePath>
+      <Modified>2015-03-27T17:25:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht3.jpg">
+      <PackagePath>Assets\ht3.jpg</PackagePath>
+      <Modified>2015-03-27T17:30:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht4.jpg">
+      <PackagePath>Assets\ht4.jpg</PackagePath>
+      <Modified>2015-03-27T17:12:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht5.jpg">
+      <PackagePath>Assets\ht5.jpg</PackagePath>
+      <Modified>2015-03-27T17:33:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht6.jpg">
+      <PackagePath>Assets\ht6.jpg</PackagePath>
+      <Modified>2015-03-27T17:09:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht7.jpg">
+      <PackagePath>Assets\ht7.jpg</PackagePath>
+      <Modified>2015-03-27T17:15:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht8.jpg">
+      <PackagePath>Assets\ht8.jpg</PackagePath>
+      <Modified>2015-03-27T17:02:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ht9.jpg">
+      <PackagePath>Assets\ht9.jpg</PackagePath>
+      <Modified>2015-03-27T17:04:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\lenovo.jpg">
+      <PackagePath>Assets\lenovo.jpg</PackagePath>
+      <Modified>2015-03-28T02:49:24.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n.jpg">
+      <PackagePath>Assets\n.jpg</PackagePath>
+      <Modified>2015-03-11T22:21:20.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n1.jpg">
+      <PackagePath>Assets\n1.jpg</PackagePath>
+      <Modified>2015-03-13T23:11:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n2.jpg">
+      <PackagePath>Assets\n2.jpg</PackagePath>
+      <Modified>2015-03-29T13:10:45.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n3.jpg">
+      <PackagePath>Assets\n3.jpg</PackagePath>
+      <Modified>2015-03-29T13:16:17.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n4.jpg">
+      <PackagePath>Assets\n4.jpg</PackagePath>
+      <Modified>2015-03-29T13:17:50.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n5.jpg">
+      <PackagePath>Assets\n5.jpg</PackagePath>
+      <Modified>2015-03-29T13:20:45.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n6.jpg">
+      <PackagePath>Assets\n6.jpg</PackagePath>
+      <Modified>2015-03-29T13:25:12.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n7.jpg">
+      <PackagePath>Assets\n7.jpg</PackagePath>
+      <Modified>2015-03-29T13:26:37.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\n8.jpg">
+      <PackagePath>Assets\n8.jpg</PackagePath>
+      <Modified>2015-03-29T13:29:40.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\ng.jpg">
+      <PackagePath>Assets\ng.jpg</PackagePath>
+      <Modified>2015-03-15T17:20:51.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\nokk.jpg">
+      <PackagePath>Assets\nokk.jpg</PackagePath>
+      <Modified>2015-03-11T22:04:44.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s1.jpg">
+      <PackagePath>Assets\s1.jpg</PackagePath>
+      <Modified>2015-03-13T23:18:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s2.jpg">
+      <PackagePath>Assets\s2.jpg</PackagePath>
+      <Modified>2015-03-29T14:26:58.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s3.jpg">
+      <PackagePath>Assets\s3.jpg</PackagePath>
+      <Modified>2015-03-29T14:08:29.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s4.jpg">
+      <PackagePath>Assets\s4.jpg</PackagePath>
+      <Modified>2015-03-29T14:10:01.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s5.jpg">
+      <PackagePath>Assets\s5.jpg</PackagePath>
+      <Modified>2015-03-29T14:12:13.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s6.jpg">
+      <PackagePath>Assets\s6.jpg</PackagePath>
+      <Modified>2015-03-29T14:14:36.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s7.jpg">
+      <PackagePath>Assets\s7.jpg</PackagePath>
+      <Modified>2015-03-29T14:17:25.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\s8.jpg">
+      <PackagePath>Assets\s8.jpg</PackagePath>
+      <Modified>2015-03-29T14:19:48.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-1.jpg">
+      <PackagePath>Assets\sam-1.jpg</PackagePath>
+      <Modified>2015-03-21T19:04:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-10.jpg">
+      <PackagePath>Assets\sam-10.jpg</PackagePath>
+      <Modified>2015-03-21T19:11:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-11.jpg">
+      <PackagePath>Assets\sam-11.jpg</PackagePath>
+      <Modified>2015-03-21T19:24:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-12.jpg">
+      <PackagePath>Assets\sam-12.jpg</PackagePath>
+      <Modified>2015-03-21T19:21:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-13.jpg">
+      <PackagePath>Assets\sam-13.jpg</PackagePath>
+      <Modified>2015-03-21T19:23:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-14.jpg">
+      <PackagePath>Assets\sam-14.jpg</PackagePath>
+      <Modified>2015-03-21T19:18:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-15.jpg">
+      <PackagePath>Assets\sam-15.jpg</PackagePath>
+      <Modified>2015-03-13T22:55:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-2.jpg">
+      <PackagePath>Assets\sam-2.jpg</PackagePath>
+      <Modified>2015-03-21T19:03:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-3.jpg">
+      <PackagePath>Assets\sam-3.jpg</PackagePath>
+      <Modified>2015-03-21T19:16:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-4.jpg">
+      <PackagePath>Assets\sam-4.jpg</PackagePath>
+      <Modified>2015-03-21T19:14:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-5.jpg">
+      <PackagePath>Assets\sam-5.jpg</PackagePath>
+      <Modified>2015-03-21T18:58:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-6.jpg">
+      <PackagePath>Assets\sam-6.jpg</PackagePath>
+      <Modified>2015-03-21T19:12:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-7.jpg">
+      <PackagePath>Assets\sam-7.jpg</PackagePath>
+      <Modified>2015-03-21T19:20:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-8.jpg">
+      <PackagePath>Assets\sam-8.jpg</PackagePath>
+      <Modified>2015-03-21T19:08:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Shared\Assets\sam-9.jpg">
+      <PackagePath>Assets\sam-9.jpg</PackagePath>
+      <Modified>2015-03-21T19:09:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-28T15:15:38.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+      <Modified>2015-04-01T19:25:06.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\BasicPage2.xbf">
+      <PackagePath>BasicPage2.xbf</PackagePath>
+      <Modified>2015-03-30T16:14:00.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-12-07T09:48:38.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.xr.xml">
+      <PackagePath>Mobile_Hunter.Windows.xr.xml</PackagePath>
+      <Modified>2015-04-03T02:26:47.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter %28last edit%29\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-25T16:13:41.177</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

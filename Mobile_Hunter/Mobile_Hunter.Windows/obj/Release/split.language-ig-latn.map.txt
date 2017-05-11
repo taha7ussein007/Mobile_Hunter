@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ig-latn"
+"ResourceDimensions"		"language-ig-ng"
+
+[Files]
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\split.language-ig-latn.pri"			"resources.pri"

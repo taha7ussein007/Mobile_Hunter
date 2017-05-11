@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Release\Mobile_Hunter.Windows_1.1.0.2_Bundle\Mobile_Hunter.Windows_1.1.0.2_AnyCPU.appx
+SymbolPackage=C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\AppPackages\Mobile_Hunter.Windows_1.1.0.2_Test\Mobile_Hunter.Windows_1.1.0.2_AnyCPU.appxsym
+ResourcePack=C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Release\Mobile_Hunter.Windows_1.1.0.2_Bundle\Mobile_Hunter.Windows_1.1.0.2_scale-140.appx
+ResourcePack=C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Release\Mobile_Hunter.Windows_1.1.0.2_Bundle\Mobile_Hunter.Windows_1.1.0.2_scale-180.appx

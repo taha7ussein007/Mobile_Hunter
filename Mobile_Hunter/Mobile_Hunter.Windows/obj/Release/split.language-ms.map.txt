@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ms"
+"ResourceDimensions"		"language-ms"
+
+[Files]
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\split.language-ms.pri"			"resources.pri"

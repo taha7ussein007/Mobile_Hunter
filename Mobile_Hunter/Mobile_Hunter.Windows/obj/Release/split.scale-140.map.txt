@@ -1,0 +1,22 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\split.scale-140.pri"			"resources.pri"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\Wide310x150Logo.scale-140.png"			"Assets\Wide310x150Logo.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\Square70x70Logo.scale-140.png"			"Assets\Square70x70Logo.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\Square310x310Logo.scale-140.png"			"Assets\Square310x310Logo.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\SmallLogo.scale-140.png"			"Assets\SmallLogo.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\Logo.scale-140.png"			"Assets\Logo.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\90.scale-140.png"			"Assets\90.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\620-300.scale-140.png"			"Assets\620-300.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\50.scale-140.png"			"Assets\50.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\44.scale-140.png"			"Assets\44.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\30.scale-140.png"			"Assets\30.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\270.scale-140.png"			"Assets\270.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\24-24.scale-140.png"			"Assets\24-24.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\150edit.scale-140.png"			"Assets\150edit.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\150.scale-140.png"			"Assets\150.scale-140.png"
+"C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Release\PackageLayout\Assets\1152-1920.scale-140.png"			"Assets\1152-1920.scale-140.png"

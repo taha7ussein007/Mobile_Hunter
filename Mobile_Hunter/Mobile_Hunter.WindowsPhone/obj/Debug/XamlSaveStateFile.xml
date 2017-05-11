@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\taha hussein\desktop\mobile_hunter (last edit)\mobile_hunter\mobile_hunter.windowsphone\obj\debug\intermediatexaml\mobile_hunter.windowsphone.exe" HashGuid="db8614d0-dfd5-85f1-c9d5-14a05dbe4709" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.3\references\commonconfiguration\neutral\adduplex.universal.controls.winphone.xaml.dll" HashGuid="8a8b53ca-9ca1-e804-b9e9-be99ad2fa5a5" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.3\references\commonconfiguration\neutral\adduplex.universal.winphone.winrt.winmd" HashGuid="ff025b37-6fda-c558-dd2c-be8cb49ead76" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.common.winmd" HashGuid="1e8503cf-70b4-228d-c093-500b67413313" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.display.winmd" HashGuid="cc0fb2e7-7a64-f70e-2997-2ad4fbf1cad0" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.ui.winmd" HashGuid="e9cb4a1e-7cfd-ae54-a0dc-9f940488270a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

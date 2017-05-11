@@ -1,0 +1,355 @@
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\App.xbf
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MainPage.xbf
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.xr.xml
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.exe
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.pdb
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\resources.pri
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AppxManifest.xml
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.build.appxrecipe
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.i.cs
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.cs
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.i.cs
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.cs
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xaml
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xbf
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xaml
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xbf
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.exe
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.pdb
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml.intermediate
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Taha\Courses Self Study\App Factory\Buy Mobile App\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.i.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xaml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xaml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.exe
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\App.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MainPage.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.xr.xml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.exe
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.pdb
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\resources.pri
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.build.appxrecipe
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.pdb
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\ProjectArchitectures.txt
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.i.cs
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.cs
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage1.g.i.cs
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage1.g.cs
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.i.cs
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.cs
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xaml
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xbf
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage1.xaml
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xaml
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage1.xbf
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xbf
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.exe
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\App.xbf
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\BasicPage1.xbf
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MainPage.xbf
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.xr.xml
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.exe
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.pdb
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\resources.pri
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AppxManifest.xml
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.build.appxrecipe
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.pdb
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml.intermediate
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles.intermediate
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles.intermediate
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles.intermediate
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\BasicPage1.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage1.g.i.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage1.g.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage1.xaml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage1.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.i.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xaml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\BasicPage2.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.g.i.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.g.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.xaml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\About.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\App.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\about.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\BasicPage2.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MainPage.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.xr.xml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.exe
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.pdb
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\resources.pri
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.build.appxrecipe
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.i.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\about.g.i.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\about.g.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.i.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xaml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\about.xaml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\about.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xaml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xaml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xbf
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.exe
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.pdb
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AdDuplex.Universal.Controls.Win.XAML.dll
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AdDuplex.Universal.Win.WinRT.winmd
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MicrosoftAdvertising.xml
+C:\Users\Taha Hussein\Desktop\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.csproj.GenerateResource.Cache
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\App.xbf
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\About.xbf
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\BasicPage2.xbf
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MainPage.xbf
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.xr.xml
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.exe
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.pdb
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\resources.pri
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AppxManifest.xml
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.build.appxrecipe
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AdDuplex.Universal.Controls.Win.XAML.dll
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AdDuplex.Universal.Win.WinRT.winmd
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MicrosoftAdvertising.winmd
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MicrosoftAdvertising.xml
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.i.cs
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.cs
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.g.i.cs
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.g.cs
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.i.cs
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.cs
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.i.cs
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.cs
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xaml
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.xaml
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xaml
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xaml
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xbf
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.xbf
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xbf
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xbf
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.exe
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.pdb
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.csproj.GenerateResource.Cache
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml.intermediate
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles.intermediate
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles.intermediate
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles.intermediate
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\ProjectArchitectures.txt
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\App.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\About.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\BasicPage2.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MainPage.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.xr.xml
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.exe
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.pdb
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\resources.pri
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AppxManifest.xml
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.build.appxrecipe
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AdDuplex.Universal.Controls.Win.XAML.dll
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AdDuplex.Universal.Win.WinRT.winmd
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MicrosoftAdvertising.winmd
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MicrosoftAdvertising.xml
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.i.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.g.i.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.g.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.i.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.i.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xaml
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.xaml
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xaml
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xaml
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xbf
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.exe
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.pdb
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.csproj.GenerateResource.Cache
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml.intermediate
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles.intermediate
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Taha\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\ProjectArchitectures.txt
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\App.xbf
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\About.xbf
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\BasicPage2.xbf
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MainPage.xbf
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.xr.xml
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.exe
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.pdb
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\resources.pri
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AppxManifest.xml
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.build.appxrecipe
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AdDuplex.Universal.Controls.Win.XAML.dll
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AdDuplex.Universal.Win.WinRT.winmd
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MicrosoftAdvertising.winmd
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MicrosoftAdvertising.xml
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.i.cs
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.cs
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.g.i.cs
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.g.cs
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.i.cs
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.cs
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.i.cs
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.cs
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xaml
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.xaml
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xaml
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xaml
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xbf
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.xbf
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xbf
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xbf
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.exe
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.pdb
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.csproj.GenerateResource.Cache
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\priconfig.xml.intermediate
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\layout.resfiles.intermediate
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\resources.resfiles.intermediate
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\pri.resfiles.intermediate
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Basic Topic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\ProjectArchitectures.txt
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\App.xbf
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\About.xbf
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\BasicPage2.xbf
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MainPage.xbf
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.xr.xml
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.exe
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Mobile_Hunter.Windows.pdb
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AdDuplex.Universal.Controls.Win.XAML.dll
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\AdDuplex.Universal.Win.WinRT.winmd
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MicrosoftAdvertising.winmd
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\bin\Debug\MicrosoftAdvertising.xml
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.i.cs
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.g.cs
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.g.i.cs
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.g.cs
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.i.cs
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.g.cs
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.i.cs
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.g.cs
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xaml
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.xaml
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xaml
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xaml
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\App.xbf
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\About.xbf
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\BasicPage2.xbf
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\MainPage.xbf
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.exe
+D:\BasicTopic\Courses Self Study\App Factory\My Apps\Mobile Hunter\Mobile_Hunter (last edit)\Mobile_Hunter\Mobile_Hunter.Windows\obj\Debug\Mobile_Hunter.Windows.pdb
